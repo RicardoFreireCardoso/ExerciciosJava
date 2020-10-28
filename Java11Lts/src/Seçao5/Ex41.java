@@ -11,7 +11,7 @@ public class Ex41 {
 			System.out.println("Informe a segunda resistencia:");
 			r2 = in.nextDouble();
 			if(r1 <=0 || r2 <= 0) {
-				System.out.println("Área inválida");
+				System.out.println("Área inválida :(");
 			} else {
 				resistencia = ((r1 * r2) / (r1 + r2));
 				System.out.println("Resistencia = "+resistencia+ " Ohms");
