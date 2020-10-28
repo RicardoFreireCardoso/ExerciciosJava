@@ -1,7 +1,8 @@
-package Seçao5;
+ package Seçao5;
 
 import java.util.Scanner;
-
+//Faça um programa que calcule a área do triangulo, cuja base e altura são fornceidas pelo usuário.
+//Esse programa não pode permitir a entrada de dados inválidos, ou seja, medidas menores ou iguais a 0.
 public class Ex39 {
 
 	public static void main(String[] args) {
