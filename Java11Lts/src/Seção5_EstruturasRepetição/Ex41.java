@@ -1,4 +1,4 @@
-package Seçao5;
+package Seção5_EstruturasRepetição;
 import java.util.Scanner;
 public class Ex41 {
 	public static void main(String[] args) {

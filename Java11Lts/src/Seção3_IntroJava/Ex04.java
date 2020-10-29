@@ -1,6 +1,6 @@
-package Seçao3;
+package Seção3_IntroJava;
 import java.util.Scanner;
-public class Ex4 {
+public class Ex04 {
 //Leia um numero real e imprima o resultado ao quadrado desse numero;
 	public static void main(String[] args) {
 		double num1, resultado;

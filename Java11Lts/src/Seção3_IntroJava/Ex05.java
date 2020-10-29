@@ -1,6 +1,6 @@
-package Seçao3;
+package Seção3_IntroJava;
 import java.util.Scanner;
-public class Ex5 {
+public class Ex05 {
 	//Leia um numero real e imprima o resultado da quinta parte desse numero;
 	public static void main(String[] args) {
 		Scanner in = new Scanner (System.in);

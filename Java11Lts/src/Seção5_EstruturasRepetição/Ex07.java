@@ -1,8 +1,8 @@
-package Seçao5;
+package Seção5_EstruturasRepetição;
 
 import java.util.Scanner;
 
-public class Ex06 {
+public class Ex07 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,8 +12,14 @@ public class Ex06 {
 		while(i<=10) {
 			System.out.println("Informe o "+i+ "° valor");
 			valor = in.nextInt();
-			soma = soma+valor;
-			i++;
+			if(valor>0) {
+				soma = soma+valor;
+				i++;
+			}else {
+				soma = soma+0;
+				i++;
+			}
+			
 		}
 		media = soma/10;
 		System.out.println("A media dos valores digitados: " +media);

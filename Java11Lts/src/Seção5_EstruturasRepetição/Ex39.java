@@ -1,4 +1,4 @@
- package Seçao5;
+ package Seção5_EstruturasRepetição;
 
 import java.util.Scanner;
 //Faça um programa que calcule a área do triangulo, cuja base e altura são fornceidas pelo usuário.
