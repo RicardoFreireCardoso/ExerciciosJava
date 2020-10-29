@@ -1,10 +1,12 @@
-package Seçao3;
+package Seção3_IntroJava;
+
 import java.util.Scanner;
-// 1. faça um programa que leia um numero inteiro e o imprima;
-// 2. faça um programa que leia um numero real e o imprima.
-public class Ex1 {
+//1. faça um programa que leia um numero inteiro e o imprima;
+//2. faça um programa que leia um numero real e o imprima.
+public class Ex01 {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		int numeros_inteiros;
 		double numero_real; 
 		Scanner in = new Scanner (System.in);
@@ -20,4 +22,5 @@ public class Ex1 {
 		
 		in.close();
 	}
+
 }
