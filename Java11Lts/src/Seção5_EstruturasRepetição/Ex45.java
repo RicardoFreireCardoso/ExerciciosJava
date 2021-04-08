@@ -1,5 +1,6 @@
 package Seção5_EstruturasRepetição;
 import java.util.Scanner;
+/*Faça um algoritmo que converta uma velocidade expressa em km/h para m/s e vice versa. Você deve criar um menu com as duas opções de conversão desejar, sendo que o programa só será finalizado quando a opção de finalizar for escolhida.*/
 public class Ex45 {
 
 	public static void main(String[] args) {

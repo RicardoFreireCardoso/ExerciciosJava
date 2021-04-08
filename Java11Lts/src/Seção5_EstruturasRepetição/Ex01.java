@@ -1,5 +1,7 @@
 package Seção5_EstruturasRepetição;
 import java.util.Scanner;
+//Faça um programa que determine e mostre os cincos primeiros multiplos de 3, considerando números maiores que 0.
+
 public class Ex01 {
 
 	public static void main(String[] args) {

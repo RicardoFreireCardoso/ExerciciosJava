@@ -1,4 +1,5 @@
 package Seção5_EstruturasRepetição;
+//faça um programa que peça ao usuário para digitar 10 valores e some-os.
 import java.util.Scanner;
 public class Ex05 {
 

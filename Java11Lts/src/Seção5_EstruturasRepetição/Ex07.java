@@ -1,5 +1,5 @@
 package Seção5_EstruturasRepetição;
-
+//Faça um programa que leia 10 inteiros positivos, ignorando não positivos, e imprima sua média.
 import java.util.Scanner;
 
 public class Ex07 {

@@ -1,8 +1,8 @@
 package Seção5_EstruturasRepetição;
+//Faça um programa que calcula a associação em paralelo de dois resistores R1 e R2 fornecidos pelo usuário via teclado. O programa fica pedindo estes valores e calculando até que o usuário entre com um valor para resistencia igual a zero. R = (R1 * R2) / (R1 + R2)
 import java.util.Scanner;
 public class Ex41 {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner in = new Scanner (System.in);
 		double resistencia, r1, r2;
 		do {

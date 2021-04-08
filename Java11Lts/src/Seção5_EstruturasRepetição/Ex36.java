@@ -1,5 +1,5 @@
 package Seção5_EstruturasRepetição;
-
+//Faça um programa que calcule a diferença entre a soma dos quadrados dos primeiros 100 números naturuais e o quadrado da soma.
 public class Ex36 {
 
 	public static void main(String[] args) {

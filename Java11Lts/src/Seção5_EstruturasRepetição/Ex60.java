@@ -1,5 +1,13 @@
 package Seção5_EstruturasRepetição;
-
+/*
+ * Faça um programa que leia vários números, calcule e mostre:
+ * A) soma dos números digitados 
+ * B) A quantidade de números digitados
+ * C) A média dos números digitados 
+ * D) O maior número digitado
+ * E) O menor número digitado
+ * F) A média dos números pares
+ * Finalise a entrada de dados caso o usuário informe o valor 0*/
 import java.util.Scanner;
 
 public class Ex60 {

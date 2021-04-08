@@ -1,5 +1,5 @@
 package Seção5_EstruturasRepetição;
-
+//Faça um progrma que leia 10 inteiros e imprima sua média
 import java.util.Scanner;
 
 public class Ex06 {
